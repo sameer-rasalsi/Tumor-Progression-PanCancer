@@ -1,0 +1,7 @@
+Cancer_Type,TCGA_Cohort,Finalized_Hub_Target_Records,Unique_Finalized_Hub_Genes,Genes_Found_In_Expression_Matrix,Tumor_Normal_Assessable_Count,Tumor_Normal_Validated_Concordant,Tumor_Normal_Significant_Discordant,KM_Assessable_Count,Cox_Assessable_Count,Stage_Assessable_Count,Notes
+Breast,TCGA-BRCA,20,20,20,20,5,15,19,20,0,
+Lung,TCGA-LUAD,16,16,16,16,6,7,16,16,16,
+Lung,TCGA-LUSC,16,16,16,16,1,12,0,0,0,
+Ovarian,TCGA-OV,20,20,20,0,0,0,0,0,0,
+Prostate,TCGA-PRAD,20,20,20,20,5,9,20,20,0,
+SCLC,TCGA_Not_Available,10,10,0,0,0,0,0,0,0,No TCGA cohort available for SCLC.
