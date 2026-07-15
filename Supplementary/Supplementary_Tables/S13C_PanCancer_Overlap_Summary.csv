@@ -1,0 +1,8 @@
+"Metric","Value"
+"Finalized cancer-specific gene records",2858
+"Unique genes across all six finalized sets",2752
+"Genes shared across >= 2 cancer types",104
+"Concordant upregulated shared genes",16
+"Concordant downregulated shared genes",32
+"Discordant-direction shared genes",56
+"Shared candidates with MCC hub support",9

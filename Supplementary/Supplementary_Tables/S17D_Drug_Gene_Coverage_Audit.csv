@@ -1,0 +1,6 @@
+Cancer_Type,Finalized_Hub_Count,Genes_Queried_Fresh,Genes_With_Existing_Interaction,Genes_With_Fresh_Interaction,Genes_With_Any_Interaction_After_Integration,Genes_With_No_Interaction_Returned,Query_Failures,Total_Unique_Gene_Drug_Pairs,Prioritized_Therapeutic_Target_Count
+Breast cancer,20,20,0,11,11,9,0,1309,7
+Lung cancer,16,16,0,11,11,5,0,83,10
+Ovarian cancer,20,20,0,7,7,13,0,88,1
+Prostate cancer,20,19,1,12,13,7,0,210,5
+Small-cell lung cancer,10,10,0,3,3,7,0,9,0
